@@ -1,7 +1,7 @@
-# UNAB - Programación Avanzada.
+# UNAB - Programación Avanzada
 
 
-# Clase N. 2 - Introducción a la Programación orientada a Objetos
+# Clase N. 2 - Introducción a la Programación orientada a Objetos (POO)
 
 ## Ejemplos generales:
 
