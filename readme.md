@@ -9,3 +9,5 @@
 ### Geometría
 ### Medios de Transporte
 ### Ejemplos avanzados
+
+v1.2
