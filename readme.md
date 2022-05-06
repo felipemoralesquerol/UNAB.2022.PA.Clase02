@@ -1,6 +1,6 @@
 # UNAB - Programación Avanzada 2022
 
-# Clase N. 2 - Introducción a la Programación orientada a Objetos (POO)
+# Clase N. 2 - Introducción a la Programación Orientada a Objetos (POO)
 
 ## Ejemplos generales sobre:
 
@@ -12,4 +12,4 @@
 #### Métodos abstractos
 
 
-v1.3
+v1.4
