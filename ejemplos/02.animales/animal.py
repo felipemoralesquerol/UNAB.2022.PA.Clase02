@@ -1,3 +1,4 @@
+# Definición de clases
 class Animal:
 
     # Edad es un argumento opcional
