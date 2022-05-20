@@ -20,8 +20,6 @@ class Rectangulo(Figura):
     def perimetro(self):
         return 2*self.lado1 + 2*self.lado2
 
-# TODO: Pensar en otra posible herencia (taxonomía)
-
 # Pruebas
 c1 = Cuadrado(6)
 c2 = Cuadrado(4)
