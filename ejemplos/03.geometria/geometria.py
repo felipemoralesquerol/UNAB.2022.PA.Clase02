@@ -42,4 +42,7 @@ print('Perímetro de rectángulo de 4 y 10: ',r2.perimetro())
 print(r2.nombre)
 
 ci1 = Circulo(0.5)
+ci2 = Circulo(10)
 print('Perímetro Circulo de 1: ', ci1.perimetro())
+print('Perímetro Circulo de 2: ', ci1.perimetro())
+
